@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886086351914",
+    "firebase_url": "https://chat-function-96924.firebaseio.com",
+    "project_id": "chat-function-96924",
+    "storage_bucket": "chat-function-96924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886086351914:android:551967f94bd98a85429753",
+        "android_client_info": {
+          "package_name": "com.example.chatfunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886086351914-dudndfhroncd4i8nvif38vr413ca3rh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkkUne9ag_hH7S_XIej4a8Gg-lo6hu1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886086351914-dudndfhroncd4i8nvif38vr413ca3rh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
